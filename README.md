@@ -1,4 +1,4 @@
-# Metabolic Syndrom Project
+# Metabolic Syndrom Project
 
 The goal is to develop an accurrate model of prediction of the presence of Metabolic Syndrome based on symptomes obtained from a dataset in https://www.kaggle.com/
 
