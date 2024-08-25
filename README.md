@@ -20,3 +20,7 @@ Using `feature_importances`, only variables having a relative importance greater
 We trained various algorithms to search for the best one in the [model_comparison.py](https://github.com/ZeepReactorr/Metabolic_Syndrom_Project/blob/main/model_comparison.py) file. We tried XGBoost, SVC and CatBoost.
 
 **XGBoost** was selected as the final model because of its strong performance with data and its potential for further improvement. The computation time was optimized using `Bayesian optimization` method, availables in [Model_comparison_opti_bayes.py](https://github.com/ZeepReactorr/Metabolic_Syndrom_Project/blob/main/Model_comparison_opti_bayes.py) file.
+
+## Conclusion
+
+The results suggest that socio-economic categories, particularly ethnicity and marital status, have little impact on the predisposition to developing metabolic syndrome. However, **income** demonstrated a sufficient impact to be retained in the final model. The SHAP analysis reveals that low income slightly increases the likelihood of developing metabolic syndrome.
