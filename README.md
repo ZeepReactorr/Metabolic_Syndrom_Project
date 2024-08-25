@@ -8,7 +8,7 @@ For this project a dataset from [Kaggle](https://www.kaggle.com/datasets/antimon
 
 ## EDA 
 
-For the Exploratory Data Analysis, we permformed various graphs, availables in the `eda.py` file.
+For the Exploratory Data Analysis, we permformed various graphs availables in the `eda.py` file.
 
 ## Preprocessing
 
