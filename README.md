@@ -6,7 +6,7 @@ The objective was to determine the impact of integrating new societal and physio
 
 ## EDA 
 
-For the Exploratory Data Analysis, we permformed various graphs, availables in the [eda.py](https://github.com/ZeepReactorr/Metabolic_Syndrom_Project/blob/main/eda.py) file. histograms, bar charts, and heatmaps were used to examine the dataset's structure and identify patterns.
+For the Exploratory Data Analysis, we performed various graphs, availables in the [eda.py](https://github.com/ZeepReactorr/Metabolic_Syndrom_Project/blob/main/eda.py) file. histograms, bar charts, and heatmaps were used to examine the dataset's structure and identify patterns.
 The dataset does not have an overrepresentation of any particular population. **Obesity** and **diabetes** emerge as key factors, indicating that these variables play a significant role in the analysis, potentially influencing the outcomes or predictions of the model.
 
 ## Preprocessing
