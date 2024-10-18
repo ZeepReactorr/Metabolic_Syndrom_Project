@@ -1,6 +1,6 @@
 # Metabolic_Syndrom_Project
 
-This project is made by ZeepReactor, Cloclochette38, LinaKhlft and Alicia.
+This project is made by ZeepReactor, Cloclochette38, LinaKhlft and Alicia. Please note that the commits made are not representative of each person's work, as each document was created and reviewed by the entire group, then committed by the same person for practical reasons.
 
 The objective was to determine the impact of integrating new societal and physiological factors on the robustness of a model predicting metabolic syndrome. To do so, a dataset from [Kaggle](https://www.kaggle.com/datasets/antimoni/metabolic-syndrome) was used.
 
